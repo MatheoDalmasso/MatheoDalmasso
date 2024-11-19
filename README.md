@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Je suis un étudiant en BUT informatique à l'IUT de Lens, spécialisé dans le développement d'application. <br><br>- 📚 Je suis en train d'apprendre le React<br>- 🧑‍💻 Je travaille fréquemment en groupe</p>
+<p align="left">Je suis un étudiant en BUT informatique à l'IUT de Lens, spécialisé dans le développement d'applications. <br><br>- 📚 Je suis en train d'apprendre le React<br>- 🧑‍💻 Je travaille fréquemment en groupe</p>
 
 ###
 
